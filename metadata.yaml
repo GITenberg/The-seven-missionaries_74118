@@ -1,0 +1,45 @@
+_repo: The-seven-missionaries_74118
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gage, George W.
+    alias: Gage, G. W.
+    birthdate: 1887
+    deathdate: 1957
+    gutenberg_agent_id: '32544'
+    url: http://www.gutenberg.org/2009/agents/32544
+creator:
+  author:
+    agent_name: McNeile, H. C. (Herman Cyril)
+    aliases:
+    - McNeile, Herman Cyril
+    - McNeile, Cyril
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '26827'
+    url: http://www.gutenberg.org/2009/agents/26827
+    wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
+description: ''
+gutenberg_issued: '2024-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74118'
+language: en
+pgterms:marc905: 20240721195221mcneile
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bMcClure Publishing Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Indian Ocean -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The seven missionaries
+url: http://www.gutenberg.org/ebooks/74118
