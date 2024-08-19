@@ -8,6 +8,9 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '32544'
     url: http://www.gutenberg.org/2009/agents/32544
+covers:
+- cover_type: archival
+  image_path: 74118-h/images/cover.jpg
 creator:
   author:
     agent_name: McNeile, H. C. (Herman Cyril)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26827
     wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74118#The-seven-missionaries
 gutenberg_issued: '2024-07-25'
 gutenberg_type: Text
 identifiers:
